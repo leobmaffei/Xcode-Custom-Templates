@@ -10,4 +10,4 @@ You can use MACROS to create names and improve the Template usage:
 > ___VARIABLE_productName:identifier___ This kind of macro above retrieves the string typed by the user in the wizard used to create our module.
 - Theres more macros but I only use this two types to create my class names based on the name of the class
 > You can find examples in the examples folder with Templates meded by me.<br><br>
-- Consider give me a start if this helped you.
+- Consider give me a star if this helped you.

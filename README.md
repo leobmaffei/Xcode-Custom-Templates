@@ -1,5 +1,7 @@
 - 1. Open this folder in terminal with command+sift+G in Finder
-> "~/Library/Developer/Xcode/Templates/" OR "/Applications/Xcode 13 2.app/Contents/Developer/Library/Xcode/Templates/Project Templates"
+> "~/Library/Developer/Xcode/Templates/" 
+- OR
+> "/Applications/Xcode 13 2.app/Contents/Developer/Library/Xcode/Templates/Project Templates"
 - 2. Create a folder with the name of your Cathegory (Example: Custom Templates).
 - 3. Create other folder with the name you want for the Template itself with ".xctemplate" at the end of the folder name. (Example "MVVM.xctemplate")
 - 3. Copy and paste inside your created folder the plist TemplateInfo.plist witch is located in the main folder in this Repository for download.
